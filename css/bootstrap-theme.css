@@ -142,6 +142,7 @@
 .btn-info[disabled] {
   background-color: #2aabd2;
   background-image: none;
+  border-color: #3e8f3e;
 }
 .btn-warning {
   background-image: -webkit-linear-gradient(top, #f0ad4e 0%, #eb9316 100%);
