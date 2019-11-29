@@ -8,9 +8,12 @@
 
 # THANKS
 
-    <Venkat>
+    <Lakshmi>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-
+    jQuery, Modernizr
+	Docker
+	Java
+	.Net
