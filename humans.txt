@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# Editied on 28th Nov 2019 by Lakshmi
+
+# TEAM
+
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
