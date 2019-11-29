@@ -1,1 +1,3 @@
-ReadMe info for the Web Project 1
+ReadMe info for the Web Project
+
+This is Git project we are using sample project
