@@ -12,7 +12,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery
 	Docker
 	Java
 	Linux
@@ -20,4 +20,3 @@
 # Scripting
 	Shell
 	PowerShell
-	Perl
