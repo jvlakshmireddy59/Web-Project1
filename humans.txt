@@ -8,8 +8,6 @@
 
 # THANKS
 
-    <Lakshmi>
-
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
@@ -17,4 +15,7 @@
 	Docker
 	Java
 	Linux
-	Unix
+
+# Scripting
+	Shell
+	PowerShell
