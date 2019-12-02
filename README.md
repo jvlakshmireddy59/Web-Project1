@@ -8,6 +8,5 @@ Git comparison class
 git rebase class
 git comparison between merge and rebase
 
-
 ## Git Branching & Merging Tutorial
 Git ranching & Merging class, explains the merging
