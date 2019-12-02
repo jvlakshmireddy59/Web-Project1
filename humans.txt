@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 # Editied on 28th Nov 2019 by Lakshmi
+# Editied on 9.45am Lakshmi
 
 # TEAM
 
@@ -19,3 +20,4 @@
 # Scripting
 	Shell
 	PowerShell
+	Perl
