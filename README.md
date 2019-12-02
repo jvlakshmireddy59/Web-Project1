@@ -10,3 +10,9 @@ git comparison between merge and rebase
 
 ## Git Branching & Merging Tutorial
 Git ranching & Merging class, explains the merging
+
+## Git Rebase vs Branch Tutorial
+Git Rebase vs Branch, explains the Rebase vs Branch
+
+## Git Rebase Tutorial
+Git Rebase, explains the Rebase
