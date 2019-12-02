@@ -5,6 +5,7 @@ Hello, this is used for git project training
 
 ## Git comparison
 Git comparison class
+Rebase module
 
 
 ## Git Branching & Merging Tutorial
