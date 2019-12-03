@@ -5,7 +5,7 @@
 
 # TEAM
 
-    <Lakshmi> -- <CM/RE> -- <@twitter>
+    <Lakshmi> -- <CM> -- <@twitter>
 
 # THANKS
 
@@ -16,6 +16,7 @@
 	Docker
 	Java
 	Linux
+	AWS
 
 # Scripting
 	Shell
